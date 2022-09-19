@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&family=Roboto+Condensed:ital,wght@0,300;0,700;1,400&family=Roboto+Flex:opsz@8..144&family=Roboto:ital@1&display=swap');
+
+@font-face {
+	font-family: "Condensed";
+	src: url("../fonts/Schwabacher.ttf");
+}
+
+@font-face {
+	font-family: "Mona_LisaC";
+	src: url("../fonts/Mona_LisaC.ttf");
+}
+
+*,
+::before::after {
+	margin: 0;
+	padding: 0;
+	border: none;
+	box-sizing: border-box;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	color: inherit;
+}
+
+a:link,
+a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+
+input,
+button,
+textarea {
+	font-family: inherit;
+	font-size: inherit;
+}
+
+button {
+	cursor: pointer;
+	color: inherit;
+	background-color: inherit;
+
+}
+
+body {
+	line-height: 1;
+}

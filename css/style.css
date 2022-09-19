@@ -1,0 +1,118 @@
+.glov {
+	font-family: "Mona_LisaC";
+	font-size: 85px;
+	letter-spacing: 10px;
+	text-align: center;
+}
+
+.glov_1 {
+
+	text-align: center;
+}
+
+.glov_2 {
+	font-family: "Mona_LisaC";
+	font-size: 55px;
+	text-shadow: 1px 2px 2px #000000;
+}
+
+.nazva,
+.non {
+	font-family: Condensed, serif;
+	font-size: 35px;
+	color: rgb(78, 12, 12);
+	padding-right: 350px;
+	text-decoration: underline;
+
+
+}
+
+.paros {
+	text-align: left;
+	font-family: Condensed;
+
+}
+
+.text_1,
+.silviya,
+.kurt_1,
+.irving_1 .sanchyshin_1,
+.nik_1,
+.klark_1,
+.frenkel_1,
+.kang_1,
+.cherneva_1 {
+	font-size: 20px;
+	font-family: Condensed;
+	text-align: center;
+}
+
+.text_2,
+.silviya_1,
+.kurt_2,
+.irving_2,
+.sanchyshin_2,
+.nik_2,
+.klark_2,
+.frenkel_2,
+.kang_2,
+.cherneva_2 {
+	font-size: 10px;
+	text-align: center;
+
+}
+
+.text_3,
+.silviya_2,
+.kurt_3,
+.irving_3,
+.nik_3,
+.klark_3,
+.frenkel_3,
+.kang_3,
+.cherneva_3 {
+	font-size: 14px;
+	text-align: center;
+
+}
+
+.text_4,
+.silviya_3,
+.kurt_4,
+.irving_4,
+.sanchyshin_4,
+.nik_4,
+.klark_4,
+.frenkel_4,
+.kang_4,
+.cherneva_4 {
+	width: 50%;
+	font-size: 20px;
+	text-align: left;
+	padding: 0px 350px 0px;
+	line-height: 1.5;
+}
+
+.text_5,
+.silviya_4,
+.kurt_5,
+.irving_5,
+.sanchyshin_4,
+.nik_5,
+.klark_5,
+.frenkel_5,
+.kang_5,
+.cherneva_5 {
+	width: 500px;
+	padding: 0px 350px 0px;
+}
+
+.block {
+	font-size: 20px;
+	color: blueviolet;
+	text-shadow: 1px 1px 2px #000000;
+}
+
+.link {
+	text-decoration: underline;
+}
